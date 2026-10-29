@@ -1,2 +1,2 @@
 # Clube-da-Leitura
-Automatização de um processo que ocorre em um grupo do WhatsApp.
+Existe um grupo de compartilhamento de livros que eu faço parte, e a minha ideia é automatizar esse processo, com o intuito de otimizar o tempo das Adms.
